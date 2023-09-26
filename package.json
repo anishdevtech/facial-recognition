@@ -2,7 +2,7 @@
   "name": "facemesh",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yashitanamdeo.github.io/face-landmark-detection",
+  "homepage": "http://anishdevtech.github.io/facial-recognition",
   "dependencies": {
     "@tensorflow-models/face-landmarks-detection": "0.0.3",
     "@tensorflow/tfjs": "^3.8.0",
